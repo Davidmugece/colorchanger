@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.color-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: #2be721;
+    border-radius: 10px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    background-color: #1206f7;
+    color: white;
+    cursor: pointer;
+}
